@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://www.businessinsider.in/thumb.cms?msid=81033263&width=1200&height=900");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col-6{
+   padding-top: 50px;
+    margin-top: 50px;
+}
+.search_bar{
+width: 75%;
+float: left;
+
+}
+
+.btn{
+margin-left: 20px;
+border-radius:  25px;
+
+}
+.h2{
+color: rgb(21 19 164);
+margin-left: 61px;
+font-weight: 900;
+font-size: 33px;
+font-family: cursive;
+}
+
+.input_area{
+margin-top: 20px;
+}
+
+#res{
+margin-top: 60px;
+
+}

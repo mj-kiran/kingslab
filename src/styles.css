@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("https://media-exp1.licdn.com/dms/image/C511BAQENZzRH2uvDYw/company-background_10000/0/1536599665860?e=2159024400&v=beta&t=RE6stsB2CBivQ8zYk8LVAYolauhFVtpRpN9ROZ2UZWo");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    height: 100%;
+} 
+.get{
+    margin-left: 17px;
+    padding: 5px;
+
+}
+
+.login{
+    
+    padding: 5px;
+}
+.navbar{
+    background-color: burlywood;
+    opacity: 80%;
+
+}
+#reg{
+    margin-left: 150px;
+}
+.sign{
+    background-color: rgb(156 161 216);
+    padding: 36px;
+    margin-top: 112px;
+    }
+ .form{
+        margin-top: 112px;
+          background: #4194a2;
+          height: 21rem;
+          padding: 50px;
+          border-radius: 50px;
+     }
